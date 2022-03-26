@@ -1,0 +1,23 @@
+.img-container {
+    position: relative;
+    display: flex;
+    height: 280px;
+    width: 100%;
+    border-bottom: solid 5px #9B51E0;
+    background-image: url(../../images/img-header.jpg);
+    background-position: 0px -300px;
+    background-repeat: no-repeat;
+    background-size: 100% 300%;
+}
+
+.img-profile {
+    position: relative;
+    background-image: url(../../images/profile.jpg);
+    background-size: 100% 100%;
+    border: solid 5px #9B51E0;
+    border-radius: 50%;
+    top: 50%;
+    margin: auto;
+    height: 200px;
+    width: 200px;
+}
