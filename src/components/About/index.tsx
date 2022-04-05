@@ -1,7 +1,7 @@
 import './index.css'
 
 
-export default function about() {
+export default function About() {
     return (
         <div className='about-cntainer'>
             <h1>Sobre mim!</h1>

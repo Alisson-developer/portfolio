@@ -1,0 +1,21 @@
+.playButtonContainer {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    margin: 20px auto;
+}
+
+.playButtonContainer h3 {
+    display: flex;
+    position: relative;
+    color: #9e5cdc;
+    margin: 10px 0px;
+}
+
+.playButton {
+    display: flex;
+    position: relative;
+    margin: auto;
+    cursor: pointer;
+    margin: 20px 0px;
+}
