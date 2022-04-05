@@ -5,7 +5,7 @@
     flex-direction: column;
     margin: 150px auto 30px;
     background-color: rgba(0, 0, 0, 0.2);
-    box-shadow: 0px 0px 10px #9B51E0;
+    box-shadow: 0px 0px 10px #9e5cdc;
     border-radius: 15px;
     padding: 20px;
     color: white;
@@ -13,6 +13,7 @@
 
 .about-cntainer > h1 {
     margin: 0px 0px 0px 20px;
+    color: #9B51E0;
 }
 
 .about-cntainer > h2 {

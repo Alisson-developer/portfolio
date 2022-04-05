@@ -1,0 +1,19 @@
+.pageBodyVisible {
+    display: flex;
+    width: 80%;
+    height: 100%;
+    margin: 20px auto;
+    padding-bottom: 40px;
+    transition-timing-function: ease-in-out;
+    transition-duration: 0.5s;
+}
+
+.pageBodyEmpty {
+    position: relative;
+    display: flex;
+    width: 60%;
+    margin: auto;
+    height: 0px;
+    transition-timing-function: ease-in-out;
+    transition-duration: 0.5s;
+}
