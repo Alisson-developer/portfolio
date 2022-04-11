@@ -1,5 +1,6 @@
 .pageBodyVisible {
     display: flex;
+    flex-direction: column;
     width: 80%;
     height: 100%;
     margin: 20px auto;
@@ -11,6 +12,7 @@
 .pageBodyEmpty {
     position: relative;
     display: flex;
+    flex-direction: column;
     width: 60%;
     margin: auto;
     height: 0px;
